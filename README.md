@@ -4,7 +4,7 @@
   </picture>
   <h1 align="center">
     <a href="https://windows-web.vercel.app">
-      Windows 11 Web
+      Windows 11 Web OS
     </a>
   </h1>
 </p>
